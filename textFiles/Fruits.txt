@@ -1,0 +1,30 @@
+
+***************************************************************************************************************
+Fruits and Vegetables:
+
+Items:                                       Price:         Discount(%):   Discounted price:    Weight(grams):
+_______________________________________________________________________________________________________________
+1)  Mango Safeda(1 kg)                       136            20             109                   1000
+2)  Totapuri Ripe Mango(2 pcs.)              188            22             147                   200
+3)  Cherry(100 gms)                          94             27             69                    100
+4)  Fresh Coconut(Nariyal)(2 pcs.)           116            30             81                    1000
+5)  Robusta banana(4 pcs.)                   49             25             37                    750
+6)  Watermelon(Tarbooj)                      56             20             45                    500
+7)  Muskmelon(Kharbuja)                      49             20             39                    450
+8)  Green grapes(500 gms)                    149            20             119                   500
+9)  Malta Orange(2 pcs.)                     70             20             56                    450
+10) Sweet Royal Apple                        119            20             95                    500
+11) Onion(1 kg)                              45             25             34                    1000
+12) Potato(1 kg)                             31             25             23                    1000
+13) Tomato(1 kg)                             58             21             46                    1000
+14) Broccoli                                 84             27             61                    350
+15) cauliflower                              76             27             55                    250
+16) Lady finger(1 kg)                        60             32             41                    1000
+17) Green Capsicum(2 pcs.)                   26             26             19                    200
+18) Green peas(500 gms)                      81             27             59                    500
+19) Brinjal(2 pcs.)                          40             29             28                    475
+20) Bitter Gourd(500 gms)                    46             27             34                    500
+______________________________________________________________________________________________________________
+
+press 0 to exit this category.
+**************************************************************************************************************

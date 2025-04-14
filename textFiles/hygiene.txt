@@ -1,0 +1,22 @@
+
+**************************************************************************************************************
+Hygiene and Wellness:
+
+Items:                                       Price:         Discount(%):   Discounted Price:    Weight(grams):
+______________________________________________________________________________________________________________
+1)  Balm                                     42             4              40                    25
+2)  Instant Pay Relief Spray                 309            15             263                   650
+3)  Earbuds(150 pieces)                      130            6              122                   30
+4)  Gumcare ToothPaste                       98             8              90                    250              
+5)  Sanitary pads(15 pieces)                 167            10             150                   100
+6)  Immuno+ MultiVitamin Bottle(30 pieces)   270            10             243                   300
+7)  IR Thermometer                           1000           10             900                   45
+8)  N95 Mask(1 piece)                        200            20             160                   10
+9)  Revital H Capsules(30 pieces)            310            30             220                   20
+10) Sensitive Soft Toothbrush(3 pieces)      132            10             120                   300
+11) Cool Mint Mouthwash(250ml)               175            8              161                   250
+12) Lemon Flavour Fruit Salt                 160            20             128                   500
+_____________________________________________________________________________________________________________
+
+press 0 to exit this category.
+*************************************************************************************************************

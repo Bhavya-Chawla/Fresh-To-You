@@ -1,0 +1,23 @@
+
+**************************************************************************************************************
+Chocolates,Desserts and Ice Creams:
+
+Items:                                       Price:         Discount(%):   Discounted Price:    Weight(grams):
+______________________________________________________________________________________________________________
+1)  5-Star                                   20             0              20                    75
+2)  Kit Kat                                  30             0              30                    70
+3)  Snickers                                 50             10             45                    90
+4)  Vanilla Moonfills Pack(2 pcs)            45             10             40                    100
+5)  Dark Chocolate                           110            10             99                    150               
+6)  Dairy Milk Silk Chocolate                160            10             148                   200
+7)  Bikano Rasgulla(1kg)                     240            10             216                   1000
+8)  Bikano Gulab Jamun (1 kg)                240            10             216                   984
+9)  Butterscotch Tub(700ml)                  180            10             162                   723
+10) Vanilla Magic Ice Cream(1L)              195            10             175                   945
+11) Choco Brownie Fudge tub(1L)              319            20             255                   992
+12) Premium Black Currant Ice Cream(1L)      395            10             375                   984
+_____________________________________________________________________________________________________________
+
+press 0 to exit this category.
+*************************************************************************************************************
+

@@ -1,0 +1,22 @@
+
+**************************************************************************************************************
+Masalas and Dry fruits:
+
+Items:                                       Price:         Discount(%):   Discounted Price:    Weight(grams):
+______________________________________________________________________________________________________________
+1)  Special Cashew(250 gms)                  529            57             225                   250
+2)  Special Almonds(250 gms)                 300            30             210                   350
+3)  RR Walnut Kernels(250 gms)               449            38             275                   550
+4)  Premium Pistachios(200 gms)              345            8              317                   400
+5)  Whole Makahana(100 gms)                  98             24             74                    600
+6)  Turmeric Powder(200 gms)                 70             0              70                    750
+7)  Haldi Powder(100 gms)                    36             0              36                    100
+8)  Lal Mirch(100 gms)                       65             0              65                    320  
+9)  Chana Masala Powder(100 gms)             87             0              87                    100
+10) Chicken Masala Powder(100 gms)           82             0              82                    150
+11) Pav Bhaji Masala Powder(50 gms)          44             0              44                    50
+12) Chatpata Chat Masala(100 gms)            60             10             54                    270
+_____________________________________________________________________________________________________________
+
+press 0 to exit this category.
+*************************************************************************************************************

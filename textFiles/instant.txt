@@ -1,0 +1,25 @@
+
+**************************************************************************************************************
+Instant and Frozen Food:
+
+Items:                                       Price:         Discount(%):   Discounted Price:    Weight(grams):
+_____________________________________________________________________________________________________________
+1)  Maggi Masala Noodles(840g)               168            5              160                   840
+2)  Yipee Noodles(720gm)                     168            22             131                   720
+3)  Nissin Cup Noodles(70g)                  50             10             45                    70
+4)  Roasted Vermicelli(400g)                 60             15             51                    400
+5)  Masala Cuppa Noodles(70g)                50             10             45                    70
+6)  French Fries(450g)                       150            10             135                   450
+7)  Potato Wedges(750X2gm)                   410            1              406                   750
+8)  Frozen Green PeasO(420g)                 120            10             108                   420
+9)  Mccain Crazy Fries(400g)                 150            33             100                   400
+10) Sweet Corn Soup(42gm)                    60             8              55                    42       
+11) Tomato Soup(51gm)                        60             8              55                    51
+12) Mushroom Soup(46gm)                      70             8              64                    46
+13) Atta Noodles(290gm)                      102            11             91                    290
+14) Banana Caramel Oats(55g)                 75             15             64                    55
+15) Mix Masala Upma(160g)                    75             15             64                    160
+____________________________________________________________________________________________________________
+
+press 0 to exit this category.
+************************************************************************************************************

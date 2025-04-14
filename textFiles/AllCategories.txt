@@ -1,0 +1,19 @@
+*****************************************
+****************ALL CATEGORIES***********
+
+1)  Fruits and Vegetables
+2)  Dairy, Breads and Eggs
+3)  Masalas and Dry fruits
+4)  Atta, Rice, Dals, Edible oils and ghee
+5)  Munchies and Soft drinks
+6)  Instant and Frozen food
+7)  Chocolates, Desserts and ice-cream
+8)  Hygiene and Wellness
+9)  Household Needs
+10) Stationary and Electrical
+11) Gym and Health
+12) Paan corner
+0)  View Cart
+
+*****************************************
+*****************************************

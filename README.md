@@ -1,4 +1,4 @@
-# Fresh-To-You
+# Fresh-To-You: Instamart
 In this C++ project, we have developed an online ordering system called Fresh to You, which aims to provide customers with a convenient platform to browse, select, and order products online.
 The online ordering system is a computer-based application that simplifies and automates the process of ordering products or services through the internet. 
 The online ordering system is designed to enhance the shopping experience for customers by eliminating the need for physical visits to stores or establishments. With just a few clicks, users can access a wide range of products from various categories and place orders from the comfort of their homes or anywhere with an internet connection.
